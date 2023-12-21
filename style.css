@@ -116,7 +116,7 @@ input[type=button] {
     color: #FFFFFF;
 }
 
-.important-links {
+.important-links a {
     color: #2EC4B6;
     text-decoration: underline;
 }
