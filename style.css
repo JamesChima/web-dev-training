@@ -114,6 +114,7 @@ input[type=button] {
     border: none;
     font-size: 16px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .important-links a {
