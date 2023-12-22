@@ -76,17 +76,13 @@ input[type=text], input[type=date], input[type=password], select {
     height: 48px;
     border: 1px solid #F0F0F0;
     padding:0px 15px;
-    outline: none;
+    outline-color: #2EC4B6;
     border-radius: 2px;
 }
 
 label {
     font-weight: 500;
     font-size: 14px;
-}
-
-#firstname {
-    border: 1px solid #2EC4B6;
 }
 
 .full-width, #password {
