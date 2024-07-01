@@ -56,6 +56,11 @@ html {
     box-shadow: 0px 4px 50px 0px rgba(4, 8, 19, 0.1);
 }
 
+.hng {
+    margin-top: 2rem;
+    color: blue !important;
+}
+
 form {
     margin: 40px;
     max-width: 100%;
